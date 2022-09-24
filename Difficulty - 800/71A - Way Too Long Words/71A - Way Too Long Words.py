@@ -5,4 +5,4 @@ for i in range(0, n):
         print(a)
     else:
         s = len(a) - 2
-        print("{a[0]}{s}{a[-1]}")
+        print(f"{a[0]}{s}{a[-1]}")
